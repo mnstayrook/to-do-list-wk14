@@ -5,11 +5,15 @@ _Created by Maegan Stayrook_
 Description:
 A simple exercise created through MERN course where Maegan had to create and style a to-do list.
 
+
+
 How to Run:
+PLEASE NOTE: This application uses React, so you will need to use "npm install" in the folder to initialize.
 1. Click on "Add Task" box
 2. Type in your task/to do item
 3. Hit enter
 4. Remove item(s) by clicking on them in the list above the text field
+
 
 Roadmap:
 Maegan has always wanted to make a task manager app that caters specifically to her needs, and this assignment has given her the beginning of this goal. She plans to expand upon this assignment and set it up to meet her requirements as time passes. Here are some of the things she plans to do:
