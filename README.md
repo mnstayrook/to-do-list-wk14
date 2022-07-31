@@ -5,7 +5,7 @@ _Created by Maegan Stayrook_
 Description:
 A simple exercise created through MERN course where Maegan had to create and style a to-do list.
 
-
+![To Do List](to-do-list.png)
 
 How to Run:
 PLEASE NOTE: This application uses React, so you will need to use "npm install" in the folder to initialize.
